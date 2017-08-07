@@ -1,0 +1,2 @@
+heron_controller:heron_nav:kingfisher_control:kingfisher_gazebo:robotx_control:robotx_sensor:using_markers:usv_gazebo_plugins
+-DCATKIN_DEVEL_PREFIX=/home/wnm03/kingfisher_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wnm03/kingfisher_ws/install -G Unix Makefiles

@@ -1,0 +1,4 @@
+<launch>
+  <rosparam command="load" file="(find heron_controller)/config/heron_controller.yaml"/>
+  <node pkg="heron_controller" type="controller" name="controller" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/wnm03/kingfisher_ws/install
+
+Name: robotx_sensor
+Description: Description of robotx_sensor
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wnm03/kingfisher_ws/install/lib 
+Requires: 

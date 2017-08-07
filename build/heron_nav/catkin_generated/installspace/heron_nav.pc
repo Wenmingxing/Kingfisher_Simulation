@@ -1,0 +1,8 @@
+prefix=/home/wnm03/kingfisher_ws/install
+
+Name: heron_nav
+Description: Description of heron_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wnm03/kingfisher_ws/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/wnm03/kingfisher_ws/devel
+
+Name: usv_gazebo_plugins
+Description: Description of usv_gazebo_plugins
+Version: 0.0.1
+Cflags: -I/home/wnm03/kingfisher_ws/src/usv_gazebo_plugins/include
+Libs: -L/home/wnm03/kingfisher_ws/devel/lib 
+Requires: roscpp kingfisher_msgs geometry_msgs nav_msgs
